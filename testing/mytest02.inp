@@ -1,0 +1,30 @@
+# Set up game and check for win.
+java -ea ataxx.Main
+
+block a6
+block a5
+
+a7-c6
+a1-c3
+g1-f1
+g7-e5
+c6-d6
+c3-d4
+c6-c4
+e5-f3
+f1-e3
+
+start
+@<Red wins.
+dump
+@<===
+@<  - - - - - - -
+@<  X - - r - - X
+@<  X - - - - - X
+@<  - - r r - - -
+@<  X - r - r r X
+@<  X - - - - - X
+@<  - - - - - - r
+@<===
+quit
+

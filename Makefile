@@ -16,7 +16,11 @@
 # that you ask questions.  The Lab Reader contains documentation.
 
 # Name of package containing main procedure 
+<<<<<<< f4f8092387c7cbd4d227cb0d0fa0f889c3dd4b25
 PACKAGE = enigma
+=======
+PACKAGE = ataxx
+>>>>>>> proj2 ataxx
 
 STYLEPROG = style61b
 

@@ -1,0 +1,17 @@
+# Trivial test blocks and move
+java -ea ataxx.Main
+block b2
+block a7
+a7-a6
+g7-f6
+dump
+@<===
+@<  r - - - - - b
+@<  r X - - - X -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - X - - - X -
+@<  b - - - - - r
+@<===
+quit
